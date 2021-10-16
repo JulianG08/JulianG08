@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @JulianG08
+- 👀 I’m interested in all kind of technologies, in learn everything that I can
+- 🌱 I’m currently learning Web Development Front-end
+- 💞️ I’m looking to collaborate on every kind of proyects
+- 📫 How to reach me: Whatsapp:+57 3206237520, Facebook: https://www.facebook.com/julian.guarnizo.14268, Instagram: https://www.instagram.com/juliandgc2018/, Twitter: https://twitter.com/JulianWebDev21 and email: juliandgc2018@hotmail.com
+
+<!---
+JulianG08/JulianG08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
